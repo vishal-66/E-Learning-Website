@@ -23,9 +23,9 @@ Interview questions for students who are preparing for placements.
 
 ## 📌 Tech Stack
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white <a href="https://vishal-66.github.io/E-Learning-Website/">)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white <a href="https://vishal-66.github.io/E-Learning-Website/">)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white <a href="https://vishal-66.github.io/E-Learning-Website/">)
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white <"https://vishal-66.github.io/E-Learning-Website/">)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white <"https://vishal-66.github.io/E-Learning-Website/">)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white <"https://vishal-66.github.io/E-Learning-Website/">)
 
 <br>
 <br>
